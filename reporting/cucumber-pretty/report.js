@@ -29,25 +29,16 @@ formatter.step({
   "name": "User enters UserName and Password",
   "keyword": "Then "
 });
-formatter.match({
-  "location": "SearchBox.user_is_on_Home_Page()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 13436098600,
-  "status": "passed"
+  "status": "undefined"
 });
-formatter.match({
-  "location": "SearchBox.user_Navigate_to_LogIn_Page()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 98800,
-  "status": "passed"
+  "status": "undefined"
 });
-formatter.match({
-  "location": "SearchBox.user_enters_UserName_and_Password()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 66800,
-  "status": "passed"
+  "status": "undefined"
 });
 });

@@ -12,38 +12,29 @@
         "steps": [
           {
             "result": {
-              "duration": 13436098600,
-              "status": "passed"
+              "status": "undefined"
             },
             "line": 6,
             "name": "User is on Home Page",
-            "match": {
-              "location": "SearchBox.user_is_on_Home_Page()"
-            },
+            "match": {},
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 98800,
-              "status": "passed"
+              "status": "undefined"
             },
             "line": 7,
             "name": "User Navigate to LogIn Page",
-            "match": {
-              "location": "SearchBox.user_Navigate_to_LogIn_Page()"
-            },
+            "match": {},
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 66800,
-              "status": "passed"
+              "status": "undefined"
             },
             "line": 8,
             "name": "User enters UserName and Password",
-            "match": {
-              "location": "SearchBox.user_enters_UserName_and_Password()"
-            },
+            "match": {},
             "keyword": "Then "
           }
         ]

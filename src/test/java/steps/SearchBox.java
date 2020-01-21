@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class SearchBox {
 
-    @Given("^User is on Home Page$")
+   @Given("^User is on Home Page$")
     public void user_is_on_Home_Page() throws Throwable {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\Sunzida\\IdeaProjects\\Cucu\\driver\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
